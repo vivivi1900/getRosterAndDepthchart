@@ -1,0 +1,3 @@
+*.exe
+cert.pem
+data/*
